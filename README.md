@@ -53,7 +53,7 @@ This project presents a sales analysis dashboard developed to evaluate revenue t
 ## 🖼️ Dashboard Preview
 
 
-![Sales Dashboard](Ferns_Petals_Sale.png)
+![Sales Dashboard](Ferns_Petals_Sale.jpeg)
 
 ---
 
